@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d0340907ea066e49b31a5fc3525536d, type: 3}
   m_Name: RES_Population
   m_EditorClassIdentifier: 
-  id: friends
-  icon: {fileID: -2554768595615315461, guid: efccf4f91461006469bbf92d4bd5e517, type: 3}
-  displayName: Friends
-  maxStack: 99
-  description: Your Actor slots
+  id: IS
+  icon: {fileID: -1234874367, guid: e9ce83f2bc9a2d245a3fa5a9e3a404b5, type: 3}
+  displayName: Imperial Support
+  maxStack: 100
+  description: Imperial Support. Currency to get special support from the Capital.
