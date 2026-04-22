@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e829c63db504d76bd6c4ae6ed27f3c8, type: 3}
+  m_Name: Area_HuntingGrounds
+  m_EditorClassIdentifier: Assembly-CSharp::ForageArea
+  id: foragehuntinggrounds
+  displayName: Hunting Grounds
+  travelDays: 0.2
+  workDays: 0.2
+  roundTrip: 1
+  seasonYieldMul:
+  - 1
+  - 1
+  - 1
+  - 1
+  drops:
+  - item: {fileID: 11400000, guid: bb292be6180ad52458bfd771f5bf8a93, type: 2}
+    min: 3
+    max: 6
+    dropChance: 1
+  - item: {fileID: 11400000, guid: f7ac3dfd308c24148969e04dd72f03a7, type: 2}
+    min: 1
+    max: 10
+    dropChance: 1
+  - item: {fileID: 11400000, guid: f6b46a2de199b89499faa6dde6f2742c, type: 2}
+    min: 1
+    max: 6
+    dropChance: 0.33

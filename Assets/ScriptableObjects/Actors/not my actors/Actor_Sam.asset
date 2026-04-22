@@ -15,7 +15,7 @@ MonoBehaviour:
   id: sam
   displayName: Sam
   role: {fileID: 11400000, guid: 2e635c56c4f83e4439c9181453ab1e17, type: 2}
-  portraitOverride: {fileID: 0}
+  portraitOverride: {fileID: -985059777672278492, guid: 97a782148a376864183ad14eaa5e95ff, type: 3}
   spiritPerDay: 1
   hireGoldCost: 0
   happiness: 0.096
@@ -28,6 +28,8 @@ MonoBehaviour:
   - Oops. That was majestic in my head.
   - If anyone asks, the floor attacked first.
   - Graceful trip executed perfectly.
+  idleThoughtIntervalMinSeconds: 17
+  idleThoughtIntervalMaxSeconds: 35
   happyIdleThoughts:
   - Sun on my face, zero emergencies.
   - Stretch break achieved. Productivity +1.

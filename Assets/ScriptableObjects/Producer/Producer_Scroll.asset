@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4fc9cefd01fc48be99418e971aee59cc, type: 3}
-  m_Name: Producer_Artifact
-  m_EditorClassIdentifier: 
-  id: legendaryArtifact
-  displayName: Weird Gem
-  icon: {fileID: 21300000, guid: fd3321e3383b0b846bfe44c8782ff70c, type: 3}
-  spiritPerSecond: 2
-  description: A weird Gem that somehow is inspiring.
+  m_Name: Producer_Scroll
+  m_EditorClassIdentifier: Assembly-CSharp::ProducerDefinition
+  id: scroll
+  displayName: Elder Scroll
+  icon: {fileID: 1612072811, guid: 97a782148a376864183ad14eaa5e95ff, type: 3}
+  spiritPerSecond: 10
+  description: TES 6?

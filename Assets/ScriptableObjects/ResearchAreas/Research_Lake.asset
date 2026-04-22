@@ -12,12 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 09ce18267a5c46c58c36fbab0d332794, type: 3}
   m_Name: Research_Lake
   m_EditorClassIdentifier: 
-  id: researchlake
-  displayName: Lake
-  days: 0.5
+  id: researchcave
+  displayName: Cave
+  days: 0.3
   possibleRecipes:
-  - {fileID: 11400000, guid: 4399641ae8c1ac94c828c2add32f8b95, type: 2}
-  recipeChance: 0.954
+  - {fileID: 11400000, guid: 64842afd7d92af04c9da42d7b707fc10, type: 2}
+  - {fileID: 11400000, guid: feaf7324d1cf3dc4381d29ae0fc988c3, type: 2}
+  recipeChance: 0.675
   possibleSpiritGenerators:
   - {fileID: 11400000, guid: 9e3a59137428ae94a8c0717215c3dc46, type: 2}
   spiritGenChance: 0.397

@@ -23,11 +23,11 @@ MonoBehaviour:
   - 1
   - 1
   drops:
-  - item: {fileID: 11400000, guid: 3213f67e22796ff4e9f97a3a0b32ef5f, type: 2}
+  - item: {fileID: 11400000, guid: b749838857accdb4ba38794c8af76769, type: 2}
     min: 1
-    max: 2
-    dropChance: 0
-  - item: {fileID: 11400000, guid: f68c9d3a687f6dc4f965428a814273a9, type: 2}
-    min: 1
-    max: 2
-    dropChance: 0
+    max: 1
+    dropChance: 0.05
+  - item: {fileID: 11400000, guid: bb292be6180ad52458bfd771f5bf8a93, type: 2}
+    min: 3
+    max: 10
+    dropChance: 0.5

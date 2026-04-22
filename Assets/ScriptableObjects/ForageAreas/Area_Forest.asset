@@ -23,19 +23,19 @@ MonoBehaviour:
   - 1
   - 1
   drops:
-  - item: {fileID: 11400000, guid: 41a2cd23ce62072408c222d1f4cdbc82, type: 2}
+  - item: {fileID: 11400000, guid: f6b46a2de199b89499faa6dde6f2742c, type: 2}
     min: 1
-    max: 2
-    dropChance: 0
-  - item: {fileID: 11400000, guid: f68c9d3a687f6dc4f965428a814273a9, type: 2}
+    max: 20
+    dropChance: 1
+  - item: {fileID: 11400000, guid: de367d6147899e14086972202bf0213c, type: 2}
+    min: 10
+    max: 30
+    dropChance: 1
+  - item: {fileID: 11400000, guid: 2570dcaa1c2290245aa4c384d1ca03ab, type: 2}
     min: 1
-    max: 2
-    dropChance: 0
-  - item: {fileID: 11400000, guid: 3213f67e22796ff4e9f97a3a0b32ef5f, type: 2}
+    max: 5
+    dropChance: 0.25
+  - item: {fileID: 11400000, guid: af70cae04d0842f40aa9cbd75237c2a4, type: 2}
     min: 1
-    max: 2
-    dropChance: 0
-  - item: {fileID: 11400000, guid: b1fe30c6ea8a82641bcc481c2e11c059, type: 2}
-    min: 1
-    max: 2
-    dropChance: 0
+    max: 1
+    dropChance: 0.1

@@ -14,11 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: researchforest
   displayName: Forest
-  days: 0.5
+  days: 0.3
   possibleRecipes:
-  - {fileID: 11400000, guid: 91f46ddd59597624ba6bc809a6c00c7b, type: 2}
-  - {fileID: 11400000, guid: 762c9c745c4b9a744bc8b39a2c66de1b, type: 2}
-  recipeChance: 0.923
+  - {fileID: 11400000, guid: db77b35be5d34e64a86ab416f0cd4d0e, type: 2}
+  - {fileID: 11400000, guid: b6a7c696915e76c4b90e591d79fbc971, type: 2}
+  recipeChance: 1
   possibleSpiritGenerators:
-  - {fileID: 11400000, guid: 9e3a59137428ae94a8c0717215c3dc46, type: 2}
+  - {fileID: 11400000, guid: 91927bcebe6c46847b3bfb828d907da9, type: 2}
   spiritGenChance: 1
